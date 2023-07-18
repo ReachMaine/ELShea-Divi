@@ -1,0 +1,10 @@
+// hide the caption in gallery image
+.mfp-wrap.mfp-gallery {
+    .mfp-content {
+      .mfp-bottom-bar {
+        .mfp-title {
+          display: none!important;
+        }
+      }
+    }
+  }
